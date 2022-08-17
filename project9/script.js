@@ -22,4 +22,5 @@ function stopSongs() {
   song.pause()
   song.currentTime = 0;
   })
+  
 }
